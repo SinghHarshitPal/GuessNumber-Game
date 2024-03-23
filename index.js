@@ -1,5 +1,7 @@
 "use strict";
 let highScore = 0;
+"use strict";
+let highScore = 0;
 let score = 20;
 let num = Math.trunc(Math.random() * 20) + 1;
 document.querySelector(".check").addEventListener("click", function () {
